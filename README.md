@@ -28,8 +28,9 @@
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaryabkhan864&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&text_color=ffffff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryabkhan864&layout=compact&theme=dark&hide_border=false&title_color=10B981&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaryabkhan864&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&text_color=ffffff&cache_seconds=1800" height="180em"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaryabkhan864&layout=compact&theme=dark&hide_border=false&title_color=10B981&text_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>
 
 <p align="center">
@@ -52,6 +53,9 @@
   <img src="https://raw.githubusercontent.com/zaryabkhan864/zaryabkhan864/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
+### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaryabkhan864&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Views" />
 </p>
