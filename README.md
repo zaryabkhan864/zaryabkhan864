@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=1e293b&logo=github" />
+  <a href="https://github.com/zaryabkhan864">
+    <img src="https://img.shields.io/github/followers/zaryabkhan864?label=Followers&style=for-the-badge&color=1e293b&logo=github" />
   </a>
   <a href="mailto:zaryabkhan864@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Zaryab-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,12 +28,12 @@
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&text_color=ffffff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false&title_color=10B981&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaryabkhan864&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryabkhan864&layout=compact&theme=dark&hide_border=false&title_color=10B981&text_color=ffffff" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryabkhan864&theme=github-compact&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -49,9 +49,9 @@
 
 ### 🐍 Contribution Archive
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/zaryabkhan864/zaryabkhan864/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zaryabkhan864&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Views" />
 </p>
