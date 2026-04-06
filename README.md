@@ -1,67 +1,31 @@
-<h1 align="center">Hi 👋, I'm Zaryab Khan</h1>
-<h3 align="center">🚀 MERN Stack Developer | Next.js | AI Enthusiast</h3>
+<!-- Replace YOUR_USERNAME with your actual GitHub username (e.g., zaryabkhan864) -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Next.js+Expert;AI+App+Builder;Redux+%2B+Tailwind+Pro&center=true&width=500&height=50">
-</p>
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **AI + MERN Applications**
-- 🌱 Learning **Distributed Systems & Advanced AI**
-- 💻 Tech: **React, Next.js, Node.js, MongoDB**
-- ⚡ Fun fact: I build full-stack apps with modern UI
-- 📫 Reach me: zaryabkhan864@gmail.com
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zaryab+Khan;MERN+Stack+Developer;Next.js+%26+AI+Enthusiast;Redux+%2B+Tailwind+Pro" alt="Typing SVG" />
+  </h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-00FFAA?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/AI%20Integration-OpenAI%20%7C%20LangChain-00FFAA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Cloud-Ready-00FFAA?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0A0A0A" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,tailwind,redux,git,github,vscode" />
-</p>
+### 🚀 About Me
 
----
+```python
+class ZaryabKhan:
+    def __init__(self):
+        self.role = "MERN Stack Developer"
+        self.focus = ["Next.js", "AI Integration", "Distributed Systems"]
+        self.tools = ["React", "Node.js", "MongoDB", "TailwindCSS", "Redux"]
+        self.current_goal = "Building AI-powered full-stack apps with modern UI"
+    
+    def say_hi(self):
+        print("⚡ Fun fact: I turn ideas into production-ready web apps!")
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180em"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Snake Eating Contributions
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-- 🔹 AI Chat App (Next.js + OpenAI)
-- 🔹 Attendance System (Arduino + MERN)
-- 🔹 Portfolio Website (React + Tailwind)
-- 🔹 BuckServe Digital Agency Website
-
----
-
-## 📈 Profile Views & Followers
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-</p>
+me = ZaryabKhan()
+me.say_hi()
