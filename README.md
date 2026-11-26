@@ -1,61 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=I'm+Zaryab+Khan;Full+Stack+Engineer;Next.js+Architect;AI+Solutions+Developer" alt="Typing SVG" />
-</h1>
+# Hi, I'm Zaryab Khan
 
-<p align="center">
-  <strong>Engineering high-performance applications with the MERN Stack & AI integration.</strong>
+Frontend developer in Istanbul. I turn designs into fast, responsive React interfaces and connect them to Node.js REST APIs. MSc in Computer Engineering, with a background in user acceptance testing, so I care about getting the details right.
+
+- **Portfolio:** [portfolio-zaryabkhan864s-projects.vercel.app](https://portfolio-zaryabkhan864s-projects.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/khanzaryab](https://www.linkedin.com/in/khanzaryab/)
+- **Email:** zaryabkhan864@gmail.com
+
+### Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,tailwind,nodejs,express,mongodb,git,postman,figma" alt="React, Redux, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind, Node.js, Express, MongoDB, Git, Postman, Figma" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/zaryabkhan864">
-    <img src="https://img.shields.io/github/followers/zaryabkhan864?label=Followers&style=for-the-badge&color=1e293b&logo=github" />
-  </a>
-  <a href="mailto:zaryabkhan864@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Zaryab-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Currently learning: Angular, RxJS, and unit testing with Jasmine and Karma.
 
----
+### Projects
 
-### 🛠️ Strategic Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,mongodb,redux,tailwind,postman,docker,figma" />
-  </a>
-</p>
-
----
-
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaryabkhan864&show_icons=true&theme=dark&hide_border=false&title_color=10B981&icon_color=10B981&text_color=ffffff&cache_seconds=1800" height="180em"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaryabkhan864&layout=compact&theme=dark&hide_border=false&title_color=10B981&text_color=ffffff&cache_seconds=1800" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryabkhan864&theme=github-compact&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🚀 High-Impact Projects
-| Project | Tech Stack | Description |
+| Project | Built with | What it is |
 | :--- | :--- | :--- |
-| **School Management OS** | `Next.js`, `MongoDB` | Advanced multi-campus system with dynamic scheduling and student counseling tracking. |
-| **AI Nexus Chat** | `OpenAI`, `Node.js` | Real-time AI conversational agent with context-aware memory. |
-| **BuckServe Digital** | `Next.js`, `Tailwind` | Premium agency platform with high-end animations and optimized performance. |
+| **EduSync Pro** ([live demo](https://gokkusagi-school.onrender.com)) | React, Redux Toolkit, Tailwind, Node.js, Express, MongoDB | School management system running as a demo for schools in Turkey and Pakistan: role-based portals, attendance, timetables, homework, fees and salaries. Code is private. |
+| **[Portfolio](https://github.com/zaryabkhan864/portfolio)** ([live](https://portfolio-zaryabkhan864s-projects.vercel.app/)) | React, Tailwind CSS | My personal site: responsive, accessible, WebP images and a small bundle. |
+| **[NeuroStack AI](https://github.com/zaryabkhan864/NeuroStack-AI)** | Next.js, Redux Toolkit, Node.js, MongoDB, OpenAI API | Full-stack web app with AI features. |
+| **[SPYRO Gym](https://github.com/zaryabkhan864/SPYRO)** ([live](https://spyrogym.vercel.app/)) | React, Tailwind CSS | Responsive gym website with reusable components. |
+| **[NFT Panda](https://github.com/zaryabkhan864/Pandas_NFT)** ([live](https://pandas-nft.vercel.app/)) | React, Bootstrap | Animated landing page for an NFT collection. |
 
----
+### Activity
 
-### 🐍 Contribution Archive
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zaryabkhan864/zaryabkhan864/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaryabkhan864&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Views" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryabkhan864&theme=github-compact&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
